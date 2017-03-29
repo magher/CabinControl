@@ -1,2 +1,2 @@
 # CabinControl
-Control heat/lights/water in a remote cabin autonomis or on-line
+Control heat/lights/water in a remote cabin autonomous or on-line
